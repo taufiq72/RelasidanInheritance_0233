@@ -15,4 +15,8 @@ public:
         cout << "Orang dihapus\n" << endl;
     }
 
+    int jumlah(int a, int b) {
+        return a + b;
+    }
+
 };
