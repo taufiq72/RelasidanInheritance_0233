@@ -18,7 +18,6 @@ int main()
     varIbu->tambahAnak(varAnak2);
     varIbu2->tambahAnak(varAnak3);
 
-    //pemanggilan prosedur cetakAnak()
     varIbu->cetakAnak();
     varIbu2->cetakAnak();
 
